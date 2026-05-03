@@ -77,6 +77,23 @@ Full usage:
 $ tada --help
 ```
 
+### Adding dependencies
+
+Edit `tada.toml`:
+
+``` toml
+[package]
+name = "foo"
+version = "0.1.0"
+
+[dependencies]
+bar = "0.5.2"
+baz = "1.2.1"
+
+[dev-dependencies]
+testy = "0.2.0"
+```
+
 ### Packages
 
 | Package | Version | Website | Description |
