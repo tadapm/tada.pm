@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<article>
+  <header>
+    <h2>{{ page.title }}</h2>
+    <time>{{ page.date }}</time> | back to <a href="/">homepage</a>
+  </header>
+  {{ page.content | safe }}
+</article>
+{% endblock content %}
