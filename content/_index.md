@@ -111,3 +111,7 @@ testy = "0.2.0"
 ### Rationale
 
 Tada is a project for personal use. I know Alire exists, is more feature rich and has hundreds of packages. And that's fine. Tada is something I always wanted to build. I write Ada for fun and decided to build many projects in it to understand how the foundational pieces work under the hood. I plan to release more projects in Ada in the near future, and I want to create my own little programming world around the language. I hope someone finds it useful.
+
+### Contact and support
+
+Made by [Tomek Wałkuski](https://tomekw.com). Do you need support? Send a message to `tada-support` at `tomekw.com`.
