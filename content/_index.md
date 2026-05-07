@@ -100,7 +100,7 @@ testy = "0.2.0"
 |---------|---------|---------|-------------|
 | `padlock` | `0.3.0` | [https://github.com/tomekw/padlock](https://github.com/tomekw/padlock) | libtls in Ada |
 | `tackle` | `0.3.0` | [https://github.com/tomekw/tackle](https://github.com/tomekw/tackle) | Tomek's Ada Class Library |
-| `testy` | `0.2.0` | [https://github.com/tomekw/testy](https://github.com/tomekw/testy) | Ada testing framework |
+| `testy` | `0.3.0` | [https://github.com/tomekw/testy](https://github.com/tomekw/testy) | Ada testing framework |
 
 ### Existing sofware
 
