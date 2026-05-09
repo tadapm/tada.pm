@@ -20,25 +20,31 @@ Start with [Ada Programming on Wikibooks](https://en.wikibooks.org/wiki/Ada_Prog
 
 ### Quick start
 
-Prerequisites:
+#### Prerequisites:
+
+Required:
 
 * `curl`
 * `gnat`
 * `gprbuild`
+
+Optional:
+
+* `gnatdoc`
 
 Download Tada:
 
 <div class="text-center">
     <nav>
         <ul>
-            <li><a href="https://github.com/tomekw/tada/releases/download/v0.11.0/tada-0.11.0-linux-x86_64" target="_blank" class="button">Linux x86_64</a></li>
-            <li><a href="https://github.com/tomekw/tada/releases/download/v0.11.0/tada-0.11.0-windows-x86_64" target="_blank" class="button">Windows x86_64</a></li>
-            <li><a href="https://github.com/tomekw/tada/releases/download/v0.11.0/tada-0.11.0-macos-aarch64" target="_blank" class="button">MacOS aarch64</a></li>
-            <li><a href="https://github.com/tomekw/tada/releases/download/v0.11.0/tada-0.11.0-linux-aarch64" target="_blank" class="button">Linux aarch64</a></li>
-            <li><a href="https://github.com/tomekw/tada/releases/download/v0.11.0/tada-0.11.0-openbsd7.8-x86_64" target="_blank" class="button">OpenBSD 7.8 x86_64</a></li>
+            <li><a href="https://github.com/tomekw/tada/releases/download/v0.12.0/tada-0.11.0-linux-x86_64" target="_blank" class="button">Linux x86_64</a></li>
+            <li><a href="https://github.com/tomekw/tada/releases/download/v0.12.0/tada-0.11.0-windows-x86_64" target="_blank" class="button">Windows x86_64</a></li>
+            <li><a href="https://github.com/tomekw/tada/releases/download/v0.12.0/tada-0.11.0-macos-aarch64" target="_blank" class="button">MacOS aarch64</a></li>
+            <li><a href="https://github.com/tomekw/tada/releases/download/v0.12.0/tada-0.11.0-linux-aarch64" target="_blank" class="button">Linux aarch64</a></li>
+            <li><a href="https://github.com/tomekw/tada/releases/download/v0.11.0/tada-0.11.0-openbsd7.8-x86_64" target="_blank" class="button">OpenBSD 7.8 x86_64 (0.11.0)</a></li>
         </ul>
     </nav>
-    <span class="text-center"><small>Version 0.11.0</small></span>
+    <span class="text-center"><small>Version 0.12.0</small></span>
 </div>
 
 Create a new project:
