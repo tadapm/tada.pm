@@ -104,7 +104,7 @@ testy = "0.2.0"
 
 | Package | Version | Website | Description |
 |---------|---------|---------|-------------|
-| `padlock` | `0.3.0` | [https://github.com/tomekw/padlock](https://github.com/tomekw/padlock) | libtls in Ada |
+| `padlock` | `0.3.1` | [https://github.com/tomekw/padlock](https://github.com/tomekw/padlock) | libtls in Ada |
 | `tackle` | `0.3.0` | [https://github.com/tomekw/tackle](https://github.com/tomekw/tackle) | Tomek's Ada Class Library |
 | `testy` | `0.3.0` | [https://github.com/tomekw/testy](https://github.com/tomekw/testy) | Ada testing framework |
 
